@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "testweb",
+    "description": "",
+    "home_page_url": "https://petcsie.github.io",
+    "feed_url": "https://petcsie.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "petcsie"
+    },
+    "items": [
+        {
+            "id": "https://petcsie.github.io/home.html",
+            "url": "https://petcsie.github.io/home.html",
+            "title": "Home",
+            "content_html": "Homepage....",
+            "author": {
+                "name": "petcsie"
+            },
+            "tags": [
+            ],
+            "date_published": "2017-12-30T17:21:47+00:00",
+            "date_modified": "2017-12-30T17:41:57+00:00"
+        }
+    ]
+}
